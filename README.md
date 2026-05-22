@@ -11,7 +11,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/ваш_логин/internet_market.git
+git clone https://github.com/ваш_логин/org_structure_api.git
 
 # Перейти в папку проекта
 cd org_structure_api|cd org_structure_api/.venv ('Если хотите установить зависимости не на глобальном окружении')
